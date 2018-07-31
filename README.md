@@ -1,10 +1,10 @@
 
-# 刘浩
-- 职位 : iOS 工程师 (深圳) 
-- 年限 : 3年 | 1992年| 近3年从事 iOS 开发
-- 联系方式 : 手机 17704051924 | 微信 lyle92 | 邮箱 v2top1@163.com
-- 博客 : http://www.jianshu.com/u/ee182a726758
-- GitHub : https://github.com/lyleLH 
+# 韩宣磊
+- 职位 : python
+- 年限 : 3年 | 1992年| 近3年从事 python开发
+- 联系方式 : 手机 18625875825 | 邮箱 18625875825@163.com
+- 博客 : https://blog.csdn.net/qq_42765168
+- GitHub : https://github.com/hanxuanlei
 
 ### 技能清单
 - 独立开发并上线过多个高质量iOS应用
